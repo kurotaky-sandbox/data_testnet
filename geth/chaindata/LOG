@@ -368,3 +368,6 @@
 17:24:53.545354 table@remove removed @69
 17:24:53.545477 table@remove removed @64
 17:24:53.545621 table@remove removed @63
+=============== Oct 5, 2017 (JST) ===============
+16:04:30.278105 db@close closing
+16:04:30.280716 db@close done T·3.009999ms
