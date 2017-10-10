@@ -1,4 +1,5 @@
 ## KDC
+[はじめてのブロックチェーン・アプリケーション Ethereumによるスマートコントラクト開発入門 (DEV Engineer's Books)](https://www.amazon.co.jp/dp/4798151343)
 
 ## geth
 
@@ -10,5 +11,7 @@ nohup geth --networkid 4649 --nodiscover --maxpeers 0 --datadir ~/data_testnet -
 https://github.com/ethereum/browser-solidity
 
 ```
+cd browser-solidity
+npm install
 npm start
 ```
